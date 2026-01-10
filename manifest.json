@@ -1,21 +1,20 @@
 {
+  "manifest_version": 1,
   "releases": 
   [
     {
-      "Magic": "esp32s3",
-      "version": "1",
+      "Magic": "OTAE",
+      "Version": "1.1",
+      "ImageSize": "5",
+      "HeaderCRC": "CRC16",
       "url": "https://your-domain/fw/esp32s3/app_v1.2.3.bin",
-      "ImageSize": "App.bin 文件大小",
-      "HeaderCRC": "CRC16(前10字节)",
-      "Reserved": "1012字节 0xFF "
-    }
+    },
     {
       "Magic": "OTAF",
-      "Version": "1",
+      "Version": "1.1",
+      "ImageSize": "10",
+      "HeaderCRC": "CRC16",
       "url": "https://your-domain/fw/n32/n32_v3.4.5.bin",
-      "ImageSize": "App.bin 文件大小",
-      "HeaderCRC": "CRC16(前10字节)",
-      "Reserved": "1012字节 0xFF " 
    }
  ]
 }
