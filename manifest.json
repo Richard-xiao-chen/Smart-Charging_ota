@@ -1,16 +1,21 @@
 {
-  "Magic": "esp32s3",
-  "version": "1",
-  "url": "https://your-domain/fw/esp32s3/app_v1.2.3.bin",
-  "ImageSize": "App.bin 文件大小",
-  "HeaderCRC": "CRC16(前10字节)",
-  "Reserved": "1012字节 0xFF "
-}
-{
-  "Magic": "OTAF",
-  "Version": "1",
-  "url": "https://your-domain/fw/n32/n32_v3.4.5.bin",
-  "ImageSize": "App.bin 文件大小",
-  "HeaderCRC": "CRC16(前10字节)",
-  "Reserved": "1012字节 0xFF " 
+  "releases": 
+  [
+    {
+      "Magic": "esp32s3",
+      "version": "1",
+      "url": "https://your-domain/fw/esp32s3/app_v1.2.3.bin",
+      "ImageSize": "App.bin 文件大小",
+      "HeaderCRC": "CRC16(前10字节)",
+      "Reserved": "1012字节 0xFF "
+    }
+    {
+      "Magic": "OTAF",
+      "Version": "1",
+      "url": "https://your-domain/fw/n32/n32_v3.4.5.bin",
+      "ImageSize": "App.bin 文件大小",
+      "HeaderCRC": "CRC16(前10字节)",
+      "Reserved": "1012字节 0xFF " 
+   }
+ ]
 }
