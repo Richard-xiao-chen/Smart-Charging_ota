@@ -4,14 +4,14 @@
   [
     {
       "Magic": "OTAE",
-      "Version": 0101,
+      "Version": "1.1",
       "ImageSize": 1048576,
       "HeaderCRC": "3A7F",
       "url": "https://your-domain/fw/esp32s3/app_v1.2.3.bin"
     },
     {
       "Magic": "OTAF",
-      "Version": 0101,
+      "Version": "1.1",
       "ImageSize": 1048576,
       "HeaderCRC": "3A7F",
       "url": "https://your-domain/fw/n32/n32_v3.4.5.bin"
