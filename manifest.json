@@ -7,14 +7,14 @@
       "Version": "1.1",
       "ImageSize": "5",
       "HeaderCRC": "CRC16",
-      "url": "https://your-domain/fw/esp32s3/app_v1.2.3.bin",
+      "url": "https://your-domain/fw/esp32s3/app_v1.2.3.bin"
     },
     {
       "Magic": "OTAF",
       "Version": "1.1",
       "ImageSize": "10",
       "HeaderCRC": "CRC16",
-      "url": "https://your-domain/fw/n32/n32_v3.4.5.bin",
+      "url": "https://your-domain/fw/n32/n32_v3.4.5.bin"
    }
  ]
 }
