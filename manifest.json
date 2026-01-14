@@ -6,7 +6,7 @@
       "Magic": "OTAE",
       "Version": "1.1",
       "ImageSize": 858160,
-      "HeaderCRC": "BBB7",
+      "HeaderCRC": "513B",
       "url": "https://github.com/Richard-xiao-chen/Smart-Charging_ota/releases/download/esp32_test_V1.0/usb_ecm_4g_module.bin"
     },
     {
